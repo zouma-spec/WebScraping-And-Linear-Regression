@@ -26,4 +26,4 @@ I scraped data of monitor from the Bestbuy.com twice(once a week), and originall
 * Data Visualization: `matplotlib` `seaborn`
 
 ## Communication
-https://github.com/zouma-spec/WebScraping-And-Linear-Regression/blob/main/6_Presentation.pdf
+[Read my Medium article here!](https://medium.com/@xiaoruiyuan/machine-learning-for-better-buying-decisions-59108f6fdcfc)
